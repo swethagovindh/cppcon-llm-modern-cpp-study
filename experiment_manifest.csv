@@ -1,0 +1,15 @@
+Metric,Value
+Scenarios,10
+Models,3
+Prompt conditions,4
+Frozen outputs,120
+Master inventory rows,202
+Feature / Syntax rows,121
+Unique concrete features,84
+Broader practice rows,75
+Quality / Tool-derived rows,6
+Practice-output cells,9000
+Undetermined practice cells,3253
+Verified overlooked opportunities,11
+High-confidence code-defect outputs,10
+Additional portability issues,2
